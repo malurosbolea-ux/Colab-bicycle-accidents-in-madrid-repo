@@ -4,6 +4,7 @@ _Analysis date: November 2025_
 
 A map of data, an urban rhythm, and a city that never stops pedaling.  
 This project explores bicycle accidents that occurred in Madrid during 2025 to uncover patterns, risks, contexts, and potential pathways toward safer mobility.
+[analysis of urban mobility in Madrid-2.pdf](https://github.com/user-attachments/files/23602488/analysis.of.urban.mobility.in.Madrid-2.pdf)
 
 ---
 
